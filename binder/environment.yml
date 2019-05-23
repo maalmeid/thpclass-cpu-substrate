@@ -11,3 +11,5 @@ dependencies:
 - scikit-learn
 - pytorch-cpu 
 - torchvision
+- pip:
+  - wasabi
